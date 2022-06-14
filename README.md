@@ -65,7 +65,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
--This project was inspired by [Microverse](https://safar1212.github.io/Book-keeping-solo-project/)
+-This project was inspired by [Microverse]()
 
 ## 📝 License
 
