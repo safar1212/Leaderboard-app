@@ -65,7 +65,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
--This project was inspired by [Microverse]()
+-This project was inspired by [Microverse](https://www.microverse.org/)
 
 ## 📝 License
 
