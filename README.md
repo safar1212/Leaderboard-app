@@ -57,7 +57,7 @@ npx hint .
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/safar1212/Todo-list-software/issues).
+Feel free to check the [issues page](https://github.com/safar1212/Leaderboard-app/issues).
 
 ## Show your support
 
