@@ -12,7 +12,7 @@ section {
 h1 {
   border: 2px black solid;
   background-color: whitesmoke;
-  margin: 0px auto;
+  margin: 0 auto;
   font-size: 50px;
   margin-bottom: 30px;
   padding-left: 30px;
@@ -74,9 +74,9 @@ button {
 footer {
   border: 2px black solid;
   position: absolute;
-  bottom: 0px;
+  bottom: 0;
   width: 99%;
-  margin: 0px auto;
+  margin: 0 auto;
   padding-left: 30px;
   background-color: whitesmoke;
 }
@@ -94,7 +94,7 @@ footer {
   h1 {
     border: 2px black solid;
     background-color: whitesmoke;
-    margin: 0px auto;
+    margin: 0 auto;
     width: 100%;
     font-size: 40px;
     margin-bottom: 30px;
@@ -103,7 +103,7 @@ footer {
   #left-section {
     width: 95%;
   }
-  
+
   #right-section {
     width: 95%;
     display: flex;
@@ -111,17 +111,17 @@ footer {
     align-content: center;
     align-items: center;
   }
-  
+
   #right-section input {
     margin-bottom: 15px;
     height: 30px;
     width: 60%;
   }
-  
+
   #right-section h2 {
     font-size: 30px;
   }
-  
+
   #left-section #heading {
     margin: 0 auto;
     width: 80%;
@@ -130,5 +130,4 @@ footer {
     align-items: center;
     align-content: center;
   }
-  
 }
