@@ -4,7 +4,7 @@
 
 ## Live demo
 
-<!-- The website was build using Github Pages: [Live Version](https://safar1212.github.io/Todo-list-software/) -->
+The website was build using Github Pages: [Live Version](https://safar1212.github.io/Leaderboard-app/)
 
 ## Built With
 
@@ -22,7 +22,7 @@
 
 
 
-git clone [https://safar1212.github.io/Todo-list-software/]() <Your-Build-Directory>
+git clone [https://safar1212.github.io/Leaderboard-app/]() <Your-Build-Directory>
 
 
 ## Getting packages and debuging with Webhint
