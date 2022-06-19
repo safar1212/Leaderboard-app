@@ -31,7 +31,7 @@ The website was build using Github Pages: [Live Version](https://safar1212.githu
 
 
 
-git clone [https://safar1212.github.io/Leaderboard-app/]() <Your-Build-Directory>
+git clone [https://safar1212.github.io/Leaderboard-app/](https://github.com/safar1212/Leaderboard-app) <Your-Build-Directory>
 
 
 ## Getting all required packages and debuging with Webhint
