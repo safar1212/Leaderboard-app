@@ -2,6 +2,15 @@
 
 > This project is about a leadboard app, in which, folks can add player names with their scores.
 
+## Desktop Version:
+
+![2022-06-19_14-00-34](https://user-images.githubusercontent.com/78845635/174473758-672087bb-bc5c-4e89-8203-da7225acd065.jpg)
+
+## Mobile Version:
+
+![2022-06-17_17-11-27](https://user-images.githubusercontent.com/78845635/174473769-c84278c1-2573-4a10-ab3a-07c235751841.jpg)
+
+
 ## Live demo
 
 The website was build using Github Pages: [Live Version](https://safar1212.github.io/Leaderboard-app/)
