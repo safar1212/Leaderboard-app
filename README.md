@@ -1,6 +1,6 @@
 # Leaderboard-app
 
-> This project is about a leadboard app, in which, folks can add player names with their scores.
+> This project is about a leadboard app, I have implemented this project using an API in which, folks can add player names with their scores.
 
 ## Desktop Version:
 
