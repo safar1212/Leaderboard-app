@@ -17,9 +17,11 @@ The website was build using Github Pages: [Live Version](https://safar1212.githu
 
 ## Built With
 
--Lighthouse (An open-source, automated tool for improving the quality of web pages. It has audits for performance, accessibility, progressive web apps, SEO and more).
--Webhint (A customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors).
--Stylelint (A mighty, modern linter that helps you avoid errors and enforce conventions in your styles).
+- Html
+- CSS
+- JavaScript
+- Webpack
+- Rest API
 
 ### Prerequisites
 
