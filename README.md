@@ -13,7 +13,7 @@
 
 ## Live demo
 
-The website was build using Github Pages: [Live Version](https://safar1212.github.io/Leaderboard-app/)
+Live Version on Github Pages: [Live Version](https://safar1212.github.io/Leaderboard-app/)
 
 ## Built With
 
