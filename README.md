@@ -22,6 +22,7 @@ Live Version on Github Pages: [Live Version](https://safar1212.github.io/Leaderb
 - JavaScript
 - Webpack
 - Rest API
+- Unit Testing
 
 ### Prerequisites
 
